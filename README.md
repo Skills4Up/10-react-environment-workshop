@@ -25,38 +25,6 @@ Al finalizar este workshop, serás capaz de:
 
 ---
 
-## 🗺️ Mapa de progresión de conocimientos
-
-### Bloque 1: Fundamentos de React
-
-- [¿Qué es React y por qué usarlo?](1-fundamentos/1-que-es-react.md)
-- [Historia y evolución de React](1-fundamentos/2-historia-evolucion.md)
-- [Comparación con otras bibliotecas y frameworks](1-fundamentos/3-comparacion-frameworks.md)
-- [Conceptos clave: Virtual DOM, componentes y estado](1-fundamentos/4-conceptos-clave.md)
-
-### Bloque 2: Configuración del Entorno de Desarrollo
-
-- [Requisitos del sistema y herramientas necesarias](2-entorno/1-requisitos-sistema.md)
-- [Instalación de Node.js, npm y herramientas auxiliares](2-entorno/2-instalacion-nodejs.md)
-- [Configuración del editor de código y extensiones](2-entorno/3-configuracion-editor.md)
-- [Herramientas de desarrollo y debugging](2-entorno/4-herramientas-desarrollo.md)
-
-### Bloque 3: Creación de Proyectos React
-
-- [Create React App: instalación y uso](3-proyectos/1-create-react-app.md)
-- [Vite: alternativa moderna y rápida](3-proyectos/2-vite-react.md)
-- [Estructura de archivos y carpetas](3-proyectos/3-estructura-proyecto.md)
-- [Scripts disponibles y comandos útiles](3-proyectos/4-scripts-comandos.md)
-
-### Bloque 4: Primeros Pasos con React
-
-- [Tu primer componente React](4-primeros-pasos/1-primer-componente.md)
-- [Entendiendo JSX básico](4-primeros-pasos/2-jsx-basico.md)
-- [Modificando la aplicación inicial](4-primeros-pasos/3-modificar-app.md)
-- [Buenas prácticas desde el inicio](4-primeros-pasos/4-buenas-practicas.md)
-
----
-
 ## 📚 Rutas de aprendizaje y práctica guiada
 
 La ruta de aprendizaje está organizada en bloques temáticos progresivos.  
